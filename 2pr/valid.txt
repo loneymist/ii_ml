@@ -1,0 +1,2 @@
+['Dmitry', 'Kartashov', '19.09.2001', 'Barnaul\n', 'DmitryKartashov@corp.nstu.ru', 'qsrjhdea']
+['Anna', 'Melnichenko', '12.04.2002', 'Barabinsk\n', 'AnnaMelnichenko@corp.nstu.ru', 'ydqdsvzf']
