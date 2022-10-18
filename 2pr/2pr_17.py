@@ -5,7 +5,7 @@ import re
 def generate_random_string(length):
         rand_string = ''
         for x in range(length):
-                rand_string = rand_string + random.choice(list('1234567890')) +random.choice(list('abcdefghigklmnopqrstuvyxwz'))+random.choice(list('QWERTYUIOPASDFGHJKLZXCVBNM'))+random.choice('!@#$%^&*(|\/)_+}{":?><"')
+                rand_string = rand_string + random.choice(list('123456789')) +random.choice(list('abcdefghigklmnopqrstuvyxwz'))+random.choice(list('QWERTYUIOPASDFGHJKLZXCVBNM'))+random.choice('!@#$%^&*(|\/)_+}{":?><"')
         return rand_string
 datamass = []
 invalid = []
