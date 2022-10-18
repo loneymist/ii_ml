@@ -11,7 +11,7 @@ valid1 = []
 temppass = ''
 tempmail = ''
 i = 0
-j = 0``````
+j = 0
 c = 0
 with open(r'2pr/data.txt','r') as data:
      lines = data.readlines()
