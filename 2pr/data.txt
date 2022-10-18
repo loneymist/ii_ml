@@ -1,6 +1,6 @@
-Name   Surname   DOB        COB      Email    Password
-Dmitry Kartashov 19.09.2001 Barnaul
-Anna Melnichenko 12.04.2002 Barabinsk
-Latygiun Evgeniyt
+Name     Surname     DOB        COB     Tel           Email            Password
+Dmitry Kartashov 19.09.2001 Barnaul +79609573223
+Anna Melnichenko 12.04.2002 Barabinsk +79609573223
+Latygiun Evgeniy
 Myasnikov Dmitry
 Zidaba75 Latygiun 12.42.1201
