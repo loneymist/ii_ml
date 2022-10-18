@@ -1,17 +1,19 @@
 import random
+from secrets import choice
 import string
 import re
 def generate_random_string(length):
-    letters = string.ascii_lowercase
-    rand_string = ''.join(random.choice(letters) for i in range(length))
-    return rand_string
+        rand_string = ''
+        for x in range(2):
+                rand_string = rand_string + random.choice(list('1234567890')) +random.choice(list('abcdefghigklmnopqrstuvyxwz'))+random.choice(list('QWERTYUIOPASDFGHJKLZXCVBNM'))+random.choice('!@#$%^&*(|\/)_+}{":?><"')
+        return rand_string
 datamass = []
 invalid = []
 valid1 = []
 temppass = ''
 tempmail = ''
 i = 0
-j = 0``````
+j = 0
 c = 0
 with open(r'2pr/data.txt','r') as data:
      lines = data.readlines()

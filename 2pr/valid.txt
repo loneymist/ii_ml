@@ -1,2 +1,2 @@
-['Dmitry', 'Kartashov', '19.09.2001', 'Barnaul', '+79609573223\n', 'DmitryKartashovnnj@corp.nstu.ru', 'oeiuppzb']
-['Anna', 'Melnichenko', '12.04.2002', 'Barabinsk', '+79609573223\n', 'AnnaMelnichenkotrx@corp.nstu.ru', 'zllmbcna']
+['Dmitry', 'Kartashov', '19.09.2001', 'Barnaul', '+79609573223\n', 'DmitryKartashov5nD!5zB|@corp.nstu.ru', '0eM"2kK:']
+['Anna', 'Melnichenko', '12.04.2002', 'Barabinsk', '+79609573223\n', 'AnnaMelnichenko8qX(7dS?@corp.nstu.ru', '7hO!4tV$']
